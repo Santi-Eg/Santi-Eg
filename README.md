@@ -1,4 +1,10 @@
-## Hi there 👋
+## What am I doing here?
+
+Currently I'm working as a level 1 support agent, but I want to develop myself so I can keep growing in the tech field. Right now, I'm following the learn to cloud guide by GPS. I want to learn more about networking, linux and cloud to have more information about which path to take and move my career afrom my current position as support agent.
+
+And this is an activity from the course I'm doing, y need to create a basic Readme repo.
+
+See you soon.
 
 <!--
 **Santi-Eg/Santi-Eg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
